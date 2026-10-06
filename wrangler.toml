@@ -1,0 +1,8 @@
+name = "village-fund-9"
+compatibility_date = "2026-10-05"
+
+main = "worker.js"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
